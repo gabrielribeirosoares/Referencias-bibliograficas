@@ -19,3 +19,23 @@ body {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
+
+@media (max-width: 768px) {
+    body {
+        padding: 1.5rem;
+        font-size: 0.95rem;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        padding: 1rem;
+        font-size: 0.9rem;
+    }}
+
+    h1 {
+        font-size: 1.3rem; }

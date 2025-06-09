@@ -20,6 +20,10 @@ body {
     border-bottom-right-radius: 10px;
 }
 
+h5,h1 {
+    text-align: center;
+}
+
 @media (max-width: 768px) {
     body {
         padding: 1.5rem;
